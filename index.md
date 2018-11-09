@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+<html>
+    <head>
+        <title>Sobre Mi</title>
+        <style>
+                table {
+                    border: 2px solid red 
+                    }
+                tr {
+                    border: 2px solid red
+                }
+                td {
+                    border: 2px solid red
+                }
+        </style>
+    </head>
 
-You can use the [editor on GitHub](https://github.com/Gonzalowc/xalo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+    <body background="fondo2.jpg">
+        <center>
+        <img  src="linuxLogo.gif" width="250px" height="200px"/><br/>
+        <p><h1>MY PERSONAL WEBPAGE</h1></p>
+        <p><h4>Gonzalo Waack Carneado</h4></p>
+        <hr style="color: hsl(210, 28%, 18%);" size="5%";/>
+            <font face="Comic Sans MS,arial,verdana">
+                <p><h5>I'm a computer systems administration student in seville.
+                <br/> I'm a person who likes new challenges,
+                <br/>and I like demostrate my skills</h5></p>
+                <hr style="color: hsl(210, 28%, 18%);" size="5%";/>
+                <table 
+                <tr>
+                        <td ALIGN="center">city</td>
+                        <td ALIGN="center">link</td>
+                        <td ALIGN="center">Curriculum Vitae</td>
+                    </tr>
+                    <tr>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gonzalowc/xalo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+                        <td ALIGN="center"><img src="linuxLogo.png" width="50px" height="50px"/> </td>
+                        <td ALIGN="center"><a href="xalo.github.io">github</a></td>
+                        <td ALIGN="center"><a href="CV-GonzaloWaackCarneado.pdf">Click</a></td>
+                        <td ALIGN="center"><img src="linuxLogo.png" width="30px" height="30px"/></td>
+                    </tr>
+            </font>   
+            <p><img src="linuxLogo.png" width="30px" height="30px"/> hola soy manolo</p> 
+        </center>
+      
+    
+    </body>
+</html>
